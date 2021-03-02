@@ -1,0 +1,44 @@
+.containerNav {
+  margin:  100px 200px 0 200px;
+  height: 60px;
+}
+
+.containerNav h3{
+  color: aliceblue;
+}
+
+.containerNav .add-user{
+  padding: 7px 15px;
+  color: aliceblue;
+}
+
+.containerEdit {
+  display: flex;
+  justify-content: space-between;
+  margin:  30px 200px 0 200px;
+  background: aliceblue;
+  height: 70px;
+}
+.containerEdit p {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.containeruser .buttons {
+  margin: 12px  12px 0 0;
+}
+.containerEdit h5 {
+  margin: 12px  0 0 12px;
+}
+
+.containerForm {
+  margin:  100px 200px 0 200px;
+  height: 120px;
+}
+
+.add-user-my-team {
+  padding: 7px 15px;
+  color: aliceblue;
+  list-style-type: none;
+  font-weight: 700;
+}
