@@ -18,7 +18,6 @@ const EditUser = (props) => {
     }
 
     useEffect(() => {
-        debugger
         if(users && users.length){
             const slectedUser = users.find(user => user.id === currentUserId )
             setSlectedUser(slectedUser);
